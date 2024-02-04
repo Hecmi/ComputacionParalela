@@ -1,0 +1,12 @@
+﻿  Dataset.cpp
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\Dataset.cpp(6,20): warning C4018: '<': no coinciden signed/unsigned
+  TestMPI01.cpp
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(34,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(45,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(89,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(115,39): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(126,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(170,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\LUIS CASANOVA\source\repos\TestMPI01\TestMPI01.cpp(196,23): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  TestMPI01.vcxproj -> C:\Users\LUIS CASANOVA\source\repos\TestMPI01\Debug\TestMPI01.exe
